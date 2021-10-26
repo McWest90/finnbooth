@@ -82,6 +82,11 @@ header .logo
   background: #03a9f4;
   mix-blend-mode: overlay;
 }
+body {
+  background-color: #C2DFFF;
+  min-height: 200px;
+  overflow: scroll;
+  }
 .text
 {
   position: relative;
